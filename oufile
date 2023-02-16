@@ -1,0 +1,36 @@
+[00000000] 001 has taken a fork
+[00000000] 001 is eating
+[00000030] 001 is sleeping
+[00000000] 002 has taken a fork
+[00000000] 002 is eating
+[00000060] 002 is sleeping
+[00000060] 001 is thinking
+[00000050] 001 has taken a fork
+[00000050] 001 is eating
+[00000090] 002 is thinking
+[00000100] 002 has taken a fork
+[00000100] 002 is eating
+[00000090] 001 is sleeping
+[00000120] 002 is sleeping
+[00000150] 001 is thinking
+[00000150] 001 has taken a fork
+[00000150] 001 is eating
+[00000180] 002 is thinking
+[00000180] 001 is sleeping
+[00000200] 002 has taken a fork
+[00000200] 002 is eating
+[00000240] 002 is sleeping
+[00000240] 001 is thinking
+[00000250] 001 has taken a fork
+[00000250] 001 is eating
+[00000270] 001 is sleeping
+[00000270] 002 is thinking
+[00000250] 002 has taken a fork
+[00000250] 002 is eating
+[00000300] 002 is sleeping
+[00000330] 001 is thinking
+[00000300] 001 has taken a fork
+[00000300] 001 is eating
+[00000360] 002 is thinking
+[00000350] 002 has taken a fork
+[00000350] 002 is eating
