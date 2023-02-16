@@ -47,5 +47,6 @@ void				ft_putstr(char *s, int fd);
 int					ft_atoi_check(char *str, char *msg);
 void				ft_lstadd_back(t_list **lst, t_list *new);
 t_list				*ft_lstnew(int x, t_data *data);
+int	ft_eat_sleep_think(t_list *philo, int *is_died);
 
 #endif
