@@ -17,7 +17,7 @@ CC=cc
 
 CFLAGS= -Wall -Werror -Wextra
 
-SRC =  philo3.c  libft_utils.c main.c
+SRC =  philo.c  libft_utils.c 
 
 #SRC_bonus = 
 
